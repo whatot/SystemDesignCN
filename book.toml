@@ -8,3 +8,7 @@ title = "系统设计面试：内幕指南 System Design Interview: An Insider's
 [output.html]
 git-repository-url = "https://github.com/whatot/SystemDesignCN"
 git-branch = "main"
+
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
