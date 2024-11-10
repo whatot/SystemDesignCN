@@ -1,0 +1,10 @@
+[book]
+authors = ["Alex Xu"]
+language = "zh"
+multilingual = false
+src = "./"
+title = "系统设计面试：内幕指南 System Design Interview: An Insider's Guide"
+
+[output.html]
+git-repository-url = "https://github.com/whatot/SystemDesignCN"
+git-branch = "main"
