@@ -2,7 +2,7 @@
 
 * [目录](README.md)
 
-## 系统设计面试：内幕指南（第一卷）
+# 系统设计面试：内幕指南（第一卷）
 
 * [第01章：从0到百万用户](<ch01.md>)
 * [第02章：粗略估算](<ch02.md>)
@@ -20,7 +20,7 @@
 * [第14章：设计 YouTube](<ch14.md>)
 * [第15章：设计 Google Drive](<ch15.md>)
 
-## 系统设计面试：内幕指南（第二卷）
+# 系统设计面试：内幕指南（第二卷）
 
 * [第01章：邻近服务](<Volume2/CHAPTER 01：Proximity Service.md>)
 * [第02章：附近的好友](<Volume2/CHAPTER 02：Nearby Friends.md>)
