@@ -1,14 +1,16 @@
-# 目录
+# 系统设计面试
 
-## 系统设计面试：内幕指南（中文翻译）
+## 在线阅读
+
+[系统设计面试：内幕指南（中文翻译）](https://learning-guide.gitbook.io/system-design-interview)
+
+## 《系统设计面试：内幕指南（中文翻译）》
 
 原名：《System Design Interview: An Insider’s Guide》
 
 作者：Alex Xu
 
 译者：精灵王 [@Admol](https://github.com/Admol)
-
-
 
 ### 目录
 
@@ -30,11 +32,30 @@
 
 ***
 
-### 在线阅读
-[系统设计面试：内幕指南（中文翻译）](https://learning-guide.gitbook.io/system-design-interview)
+## 《系统设计面试：内幕指南（第二卷）》
+原名：《System Design Interview An Insider's Guide Volume 2》
 
+作者：Alex Xu &Sahn Lam
 
-## 声明
+译者：精灵王 [@Admol](https://github.com/Admol)
+
+### 目录
+
+- [第1章 邻近服务](<Volume2/CHAPTER 01：Proximity Service.md>)
+- [第2章 附近的好友](<Volume2/CHAPTER 02：Nearby Friends.md>)
+- [第3章 谷歌地图](Volume2%2FCHAPTER%2003%EF%BC%9AGoogle%20Maps.md)
+- [第4章 分布式消息队列](<Volume2/CHAPTER 04: Distributed Message Queue.md>)
+- [ ] 第5章 指标监控与告警系统
+- [ ] 第6章 广告点击事件聚合
+- [ ] 第7章 酒店预订系统
+- [ ] 第8章 分布式邮件服务
+- [ ] 第9章 类S3对象存储
+- [第10章：实时游戏排行榜](<Volume2/CHAPTER 10：Real-time Gaming Leaderboard.md>)
+- [ ] 第11章 支付系统
+- [ ] 第12章 数字钱包
+- [ ] 第13章 股票交易所
+
+# 声明
 
 译者纯粹出于 **学习目的** 与 **个人兴趣** 翻译本书，不追求任何经济利益。
 
